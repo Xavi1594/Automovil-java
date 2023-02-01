@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="C:\Users\xavie\Desktop\Bootcamp\Ejercicio java coches\coches\src\main\java\coches\App.java">
+</file>
+<file name="C:\Users\xavie\Desktop\Bootcamp\Ejercicio java coches\coches\src\main\java\coches\Automovil.java">
+<error line="1" severity="error" message="El fichero no termina con un retorno de carro." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\xavie\Desktop\Bootcamp\Ejercicio java coches\coches\src\test\java\coches\AppTest.java">
+</file>
+</checkstyle>
